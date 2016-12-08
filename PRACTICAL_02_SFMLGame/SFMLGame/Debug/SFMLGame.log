@@ -1,0 +1,7 @@
+﻿  Player.cpp
+g:\gameplayprogramming1\practical_02_sfmlgame\sfmlgame\player.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+g:\gameplayprogramming1\practical_02_sfmlgame\sfmlgame\player.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+g:\gameplayprogramming1\practical_02_sfmlgame\sfmlgame\player.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+g:\gameplayprogramming1\practical_02_sfmlgame\sfmlgame\player.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+g:\gameplayprogramming1\practical_02_sfmlgame\sfmlgame\player.cpp(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLGame.vcxproj -> G:\GameplayProgramming1\PRACTICAL_02_SFMLGame\Debug\SFMLGame.exe
